@@ -11,8 +11,4 @@ return {
   { import = "astrocommunity.scrolling.satellite-nvim" },
   { import = "astrocommunity.lsp.lsp-signature-nvim" },
   { import = "astrocommunity.motion.leap-nvim" },
-  { import = "astrocommunity.pack.typescript" },
-  { import = "astrocommunity.pack.tailwindcss" },
-  { import = "astrocommunity.pack.vue" },
-  { import = "astrocommunity.pack.html-css" },
 }
